@@ -25,3 +25,12 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# AI & Assistant files
+/.agents/
+/.claude/
+/.kiro/
+/.mcp.json
+/AGENTS.md
+/CLAUDE.md
+/boost.json
